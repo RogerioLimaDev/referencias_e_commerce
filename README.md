@@ -2,6 +2,6 @@
 Links interessantes de ferramentas e apis uteis para e-commerce
 
 
-Ferramenta de comunicação cliente/vendedor
+<b>Ferramenta de comunicação cliente/vendedor</b>
 
 https://www.hero.cx
